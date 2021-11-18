@@ -1,17 +1,20 @@
-algoritmo "Par ou ímpar"
-// Função : Informa se um número inteiro digitado pelo usuário é par ou ímpar
+algoritmo "Par ou Ã­mpar"
+// FunÃ§Ã£o : Informa se um nÃºmero inteiro digitado pelo usuÃ¡rio Ã© par ou Ã­mpar
 // Autor : Eduardo Barreto
 // Data : 12/11/2021
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes
 var
    numero: Inteiro
+   par: Logico
 inicio
-// Seção de Comandos 
-   escrevaL("Esse programa informa se um número inteiro digitado pelo usuário (você) é par ou ímpar")
+// SeÃ§Ã£o de Comandos
+   escrevaL("Esse programa informa se um nÃºmero inteiro digitado pelo usuÃ¡rio (vocÃª) Ã© par ou Ã­mpar")
    escrevaL()
-   
-   escreva("Digite o número: ")
+
+   escreva("Digite o nÃºmero: ")
    leia(numero)
    
-   escrevaL("O número", numero, " é par?", numero%2)
+   par <- numero%2 = 0
+
+   escrevaL("O nÃºmero", numero, " Ã© par?", par)
 fimalgoritmo
