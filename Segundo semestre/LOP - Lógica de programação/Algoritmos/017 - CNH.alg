@@ -30,6 +30,9 @@ inicio
    
    idade <- anoAtual - anoNascimento
    Se(mesAtual < mesNascimento) entao
+       idade <- idade - 1
+   fimSe
+   Se(mesAtual = mesNascimento) entao
        Se(diaAtual < diaNascimento) entao
            idade <- idade - 1
        fimSe
