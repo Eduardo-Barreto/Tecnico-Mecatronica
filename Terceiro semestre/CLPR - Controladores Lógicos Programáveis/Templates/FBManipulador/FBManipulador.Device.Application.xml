@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.14.0</Version>
+    <SymbolConfigObject version="3.5.15.30" runtimeid="3.5.15.40" libversion="3.5.15.20" compiler="3.5.15.40" lmm="3.5.15.0" profile="MasterTool IEC XE+" settings="SupportOPCUA, LayoutCalculator=OptimizedClientSideLayoutCalculator" />
+    <ProjectInfo name="FBManipulador" devicename="Device" appname="Application" />
+  </Header>
+  <TypeList>
+    <TypeSimple name="T_BYTE" size="1" swapsize="1" typeclass="Byte" iecname="BYTE" />
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="IO">
+        <Node name="input0" type="T_BYTE" access="ReadWrite" directaddress="%IB0" />
+        <Node name="input1" type="T_BYTE" access="ReadWrite" directaddress="%IB1" />
+        <Node name="output0" type="T_BYTE" access="ReadWrite" directaddress="%QB0" />
+        <Node name="output1" type="T_BYTE" access="ReadWrite" directaddress="%QB1" />
+      </Node>
+    </Node>
+  </NodeList>
+</Symbolconfiguration>
