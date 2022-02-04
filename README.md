@@ -28,11 +28,11 @@ Esse repositório contém os arquivos digitais produzidos por mim (e alguns por 
 # Segundo semestre
 ## CLPR - Controladores lógicos programáveis
 - Templates e exercícios de programação de CLPs, separados em pastas para cada um
-    > Projetos com a extensão `.project` que podem ser abertos com o MasterTools (CodeSys), ambientes de simulação com a extensão `.ct` que podem ser abertos com o software [FluidSIM](https://www.festo-didactic.com/br-pt/sistemas-de-ensino/softwares/fluidsim-3.6-portugues/fluidsim-3.6.htm?fbid=YnIucHQuNTM3LjIzLjE4LjEwMTIuNTQ0Mw) da Festo, com a versão de hidráulica. ou pneumática
+    > Projetos com a extensão `.project` que podem ser abertos com o MasterTools (CodeSys), ambientes de simulação com a extensão `.ct` que podem ser abertos com o software [FluidSIM](https://www.festo-didactic.com/br-pt/sistemas-de-ensino/softwares/fluidsim-3.6-portugues/fluidsim-3.6.htm?fbid=YnIucHQuNTM3LjIzLjE4LjEwMTIuNTQ0Mw) da Festo, com a versão de hidráulica. ou pneumática.
 
-<!--
+## SDMI - Sistemas digitais e microcontroladores
+- Exercícios e tarefas
+    > Desafios de portas lógicas estão separados em pastas, com arquivos de diagramas com a extensão `.DSN` que podem ser abertos com o ISIS 7 Proteus, tabelas verdade com a extensão `.xlsx` que podem ser abertos com o Excel. Tanto os diagramas quanto as tabelas tem versão em `.png` para facilitar a visualização.
 
-- Os com a extensão `.ct` da [pasta de SPH no segundo semestre](./Segundo%20semestre/SPH%20-%20Sistemas%20pneumáticos%20e%20hidráulicos) e do [Terceiro Semestre](./Terceiro%20semestre/CLPR%20-%20Controladores%20L%C3%B3gicos%20Program%C3%A1veis) são diagramas de sistemas hidráulicos ou pneumáticos e podem ser abertos com o [FluidSIM](https://www.festo-didactic.com/br-pt/sistemas-de-ensino/softwares/fluidsim-3.6-portugues/fluidsim-3.6.htm?fbid=YnIucHQuNTM3LjIzLjE4LjEwMTIuNTQ0Mw) da Festo, com a versão de hidráulica ou pneumática
-- Os com a extensão `.alg` da [pasta de algoritmos de LOP no segundo semestre](./Segundo%20semestre/LOP%20-%20Lógica%20de%20programação/Algoritmos) são algoritmos em portugol, que podem ser abertos com [VisuAlg](https://visualg3.com.br)
-- Os com a extensão `.project`. da pasta do [Terceiro Semestre](./Terceiro%20semestre/CLPR%20-%20Controladores%20L%C3%B3gicos%20Program%C3%A1veis) são projetos de programação de CLPs, e podem ser abertos com o [MasterTools (CodeSys)](https://www.codesys.com/)
--->
+### TPMC - Tecnologia de produção mecatrônica
+- Peças desenhadas no Autodesk Inventor
