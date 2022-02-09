@@ -28,7 +28,7 @@ Esse repositório contém os arquivos digitais produzidos por mim (e alguns por 
 # Segundo semestre
 ## CLPR - Controladores lógicos programáveis
 - Templates e exercícios de programação de CLPs, separados em pastas para cada um
-    > Projetos com a extensão `.project` que podem ser abertos com o MasterTools (CodeSys), ambientes de simulação com a extensão `.ct` que podem ser abertos com o software [FluidSIM](https://www.festo-didactic.com/br-pt/sistemas-de-ensino/softwares/fluidsim-3.6-portugues/fluidsim-3.6.htm?fbid=YnIucHQuNTM3LjIzLjE4LjEwMTIuNTQ0Mw) da Festo, com a versão de hidráulica. ou pneumática.
+    > Projetos com a extensão `.project` que podem ser abertos com o [MasterTools (CodeSys)](https://www.altus.com.br/suporte#suportedownload), ambientes de simulação com a extensão `.ct` que podem ser abertos com o software [FluidSIM](https://www.festo-didactic.com/br-pt/sistemas-de-ensino/softwares/fluidsim-3.6-portugues/fluidsim-3.6.htm?fbid=YnIucHQuNTM3LjIzLjE4LjEwMTIuNTQ0Mw) da Festo, com a versão de hidráulica. ou pneumática.
 
 ## SDMI - Sistemas digitais e microcontroladores
 - Exercícios e tarefas
