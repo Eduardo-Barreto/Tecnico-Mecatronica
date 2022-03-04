@@ -1,0 +1,8 @@
+1 - Construa o circuito lógico da expressão X = !(!(A and B) and !(C or D)), usando apenas NOR e NAND. Determine o nível de saída para A=B=1 e C=D=0
+    > ./circuito.png. 0
+2 - Qual é a única condição de entrada que produz nível ALTO na saída de uma porta NOR de três entradas?
+    > A=B=C=0
+3 - Que porta é equivalente a uma NAND seguida de uma NOT?
+    > AND
+4 - Troque a porta NOR do circuito do exercício 1 por uma NAND e a NAND por uma NOR. Qual é a nova equação de saída do circuito?
+    > !(!(A or B) or !(C and D))
