@@ -25,14 +25,19 @@ Esse repositório contém os arquivos digitais produzidos por mim (e alguns por 
     > Sequências, lógicas, desafios e máquinas com a extensão `.ct` que podem ser abertos com o software [FluidSIM](https://www.festo-didactic.com/br-pt/sistemas-de-ensino/softwares/fluidsim-3.6-portugues/fluidsim-3.6.htm?fbid=YnIucHQuNTM3LjIzLjE4LjEwMTIuNTQ0Mw) da Festo, com a versão de pneumática.
 
 
-# Segundo semestre
+# Terceiro semestre
 ## CLPR - Controladores lógicos programáveis
+[Essa pasta](./Terceiro%20semestre/CLPR%20-%20Controladores%20Lógicos%20Programáveis) contém:
+
 - Templates e exercícios de programação de CLPs, separados em pastas para cada um
     > Projetos com a extensão `.project` que podem ser abertos com o [MasterTools (CodeSys)](https://www.altus.com.br/suporte#suportedownload), ambientes de simulação com a extensão `.ct` que podem ser abertos com o software [FluidSIM](https://www.festo-didactic.com/br-pt/sistemas-de-ensino/softwares/fluidsim-3.6-portugues/fluidsim-3.6.htm?fbid=YnIucHQuNTM3LjIzLjE4LjEwMTIuNTQ0Mw) da Festo, com a versão de hidráulica. ou pneumática.
 
 ## SDMI - Sistemas digitais e microcontroladores
+[Essa pasta](./Terceiro%20semestre/SDMI%20-%20Sistemas%20Digitais%20e%20Microcontroladores) contém:
+
 - Exercícios e tarefas
     > Desafios de portas lógicas estão separados em pastas, com arquivos de diagramas com a extensão `.DSN` que podem ser abertos com o ISIS 7 Proteus, tabelas verdade com a extensão `.xlsx` que podem ser abertos com o Excel. Tanto os diagramas quanto as tabelas tem versão em `.png` para facilitar a visualização.
 
 ### TPMC - Tecnologia de produção mecatrônica
+[Essa pasta](./Terceiro%20semestre/TPMC%20-%20Tecnololgia%20de%20produção%20mecatrônica) contém:
 - Peças desenhadas no Autodesk Inventor
