@@ -4,6 +4,7 @@ int main(void) {
     // Declaração das variáveis
     int count = 0; // Contador de números digitados
     int repeat = 1; // Controle de repetição
+    int auxRepeat = 1; // Auxiliar do controle de repetição
     float current_number = 0; // Número digitado pelo usuário
     float sum = 0; // Soma total dos números digitados
     float result = 0; // Resultado final da média
@@ -24,18 +25,20 @@ int main(void) {
         count++;
 
         // Pergunta se o usuário quer continuar digitando números
-        int validRepeat = 0;
-        while(validRepeat == 0){
-            printf("\nDeseja inserir mais um número?    [0] Não    [1] Sim\n");
-            scanf("%i", &repeat);
+        printf("\nDeseja inserir mais um número?    [0] Não    [1] Sim\n");
+        scanf("%i", &auxRepeat);
 
-            if (repeat == 0 || repeat == 1){
-                validRepeat = 1;
-            }
-            else{
-                printf("Você digitou um valor inválido, tente novamente!\n");
-            }
+        // Enquanto o valor digitado for diferente de 0 e de 1
+        while(auxRepeat != 0 && auxRepeat != 1){
+            // Informa o erro ao usuário
+            printf("Você digitou um valor inválido, tente novamente.\n");
+            printf("[0] Não    [1] Sim\n");
+            // Atualiza o valor auxiliar para verificar novamente
+            scanf("%i", &auxRepeat);
         }
+
+        // Atribui o valor válido à variável repeat
+        repeat = auxRepeat;
     }
 
     // Calcula o resultado final pela soma dividida pela quantidade de números
