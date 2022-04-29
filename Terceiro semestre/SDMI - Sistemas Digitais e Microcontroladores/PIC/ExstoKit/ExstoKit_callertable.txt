@@ -1,0 +1,7 @@
+main
+	__CC2DW
+	resetAll
+	slideWord
+		setWord
+			setLetter
+				resetDisplays

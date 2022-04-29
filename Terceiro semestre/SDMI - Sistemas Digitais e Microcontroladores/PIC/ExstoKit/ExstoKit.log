@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo20 -N"G:\SENAI\Terceiro semestre\SDMI - Sistemas Digitais e Microcontroladores\PIC\ExstoKit\ExstoKit.mcppi" -SP"C:\Program Files (x86)\mikroC PRO for PIC\Defs\" -SP"C:\Program Files (x86)\mikroC PRO for PIC\uses\P18\" -SP"G:\SENAI\Terceiro semestre\SDMI - Sistemas Digitais e Microcontroladores\PIC\ExstoKit\" -IP"C:\Program Files (x86)\mikroC PRO for PIC\uses\P18\" "ExstoKit.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	ExstoKit.c
+error: 117	393	'showAll' Identifier redefined	ExstoKit.c
+error: 120	324	Undeclared identifier '_letters' in expression	ExstoKit.c
+error: 120	322	Pointer required	ExstoKit.c
+error: 121	324	Undeclared identifier '_letters' in expression	ExstoKit.c
+error: 121	322	Pointer required	ExstoKit.c
+error: 122	324	Undeclared identifier '_letters' in expression	ExstoKit.c
+error: 122	322	Pointer required	ExstoKit.c
+error: 123	324	Undeclared identifier '_letters' in expression	ExstoKit.c
+error: 123	322	Pointer required	ExstoKit.c
+error: 0	102	Finished (with errors): 29 abr 2022, 10:57:46	ExstoKit.mcppi
