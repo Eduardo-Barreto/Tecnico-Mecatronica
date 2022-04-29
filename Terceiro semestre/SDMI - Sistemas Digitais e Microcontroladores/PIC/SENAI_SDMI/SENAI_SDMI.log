@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4520 -DL -O11111114 -fo4 -N"G:\SENAI\Terceiro semestre\SDMI - Sistemas Digitais e Microcontroladores\PIC\SENAI_SDMI\SENAI_SDMI.mcppi" -SP"C:\Program Files (x86)\mikroC PRO for PIC\Defs\" -SP"C:\Program Files (x86)\mikroC PRO for PIC\uses\P18\" -SP"G:\SENAI\Terceiro semestre\SDMI - Sistemas Digitais e Microcontroladores\PIC\SENAI_SDMI\" -IP"C:\Program Files (x86)\mikroC PRO for PIC\uses\P18\" "SENAI_SDMI.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Button.mcl"	 
+hint: 0	1139	Available RAM: 1515 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	SENAI_SDMI.c
+diagnostics: 35	123	Compiled Successfully	SENAI_SDMI.c
+diagnostics: 0	127	All files Compiled in 235 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 1513 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 1513 (99%)
+hint: 0	1144	Used ROM (bytes): 204 (1%)  Free ROM (bytes): 32564 (99%)	Used ROM (bytes): 204 (1%)  Free ROM (bytes): 32564 (99%)
+diagnostics: 0	125	Project Linked Successfully	SENAI_SDMI.mcppi
+diagnostics: 0	128	Linked in 156 ms	 
+diagnostics: 0	129	Project 'SENAI_SDMI.mcppi' completed: 531 ms	 
+diagnostics: 0	103	Finished successfully: 29 abr 2022, 10:47:50	SENAI_SDMI.mcppi
