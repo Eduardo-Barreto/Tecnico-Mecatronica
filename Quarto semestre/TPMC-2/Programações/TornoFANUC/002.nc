@@ -18,7 +18,7 @@ N110 G00 X85; (Eixo X)
 
 (Zero peça e faceamento)
 N112 G72 W1 R1;
-N114 G72 P116 Q120 U0 W0 F.4;
+N114 G72 P116 Q119 U0 W0 F.4;
     N116 G00 Z00;
     N117 G01 X-1.6;
     N118 G01 Z1;
@@ -27,7 +27,7 @@ N119;
 N120 G71 U1.5 R2;
 N121 G71 P122 Q135 U.5 W.05 F.4;
     (Ponto de ataque)
-    N122 G01 X19 Z1;
+    N122 G00 X19 Z1;
 
     (Baby chanfro)
     N124 G01 X24 Z-1.5;
