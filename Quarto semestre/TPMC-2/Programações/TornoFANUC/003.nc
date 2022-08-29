@@ -1,3 +1,5 @@
+O0003
+
 (Configuração padrão inicial)
 N10 G21 G40 G54 G90 G95;
 N20 G92 S2500;
